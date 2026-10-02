@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vrunda Kalbhor</h1>
-<h3 align="center">Here isA Computer Engineering undergraduate passionate about Software Development, Systems Design, and Problem Solving.</h3>
+<h3 align="center">A Computer Engineering undergraduate passionate about Software Development, Systems Design, and Problem Solving.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalbhorvrunda96-hue&label=Profile%20views&color=0e75b6&style=flat" alt="kalbhorvrunda96-hue" /> </p>
 
@@ -28,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalbhorvrunda96-hue&show_icons=true&locale=en" alt="kalbhorvrunda96-hue" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalbhorvrunda96-hue&" alt="kalbhorvrunda96-hue" /></p>
+
